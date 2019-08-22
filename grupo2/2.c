@@ -1,8 +1,8 @@
 #include<stdlib.h>
 #include<stdio.h>
 
-int main(void)
-{
+int main(){
+    
     int n = 0;
 
     printf("IMPRIMINDO TABELA ASCII\n\n");
